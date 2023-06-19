@@ -1,0 +1,18 @@
+address_private:
+  deploy_private: ""
+address:
+  lp_feed: ""
+  bot_triggered: ""
+  oracle_server_addr: ["",""]
+  usdt_faucet_addr: ""
+  usdt_arbOne_address: ""
+  link_token: ""
+  link_price_feed: ""
+  btc_price_feed: ""
+  eth_price_feed: ""
+url:
+  node_rpc: [""]
+  browser_api: "https://api.arbiscan.io/api"
+  browser_url: "https://arbiscan.io"
+api_key:
+  browser_api_key: ""
